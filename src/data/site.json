@@ -1,0 +1,67 @@
+{
+  "contact": {
+    "tel": "15584110359",
+    "email": "lizeyan0413@163.com"
+  },
+  "projects": [
+    {
+      "id": "2d-platformer",
+      "title": "2D横板游戏开发",
+      "category": "游戏开发",
+      "image": "img/game.jpg",
+      "description": "一款2D横板游戏开发项目，包含丰富的游戏机制和精美的像素风格画面。",
+      "tags": ["Unity", "C#", "像素艺术"],
+      "video": "video/demo.mp4"
+    },
+    {
+      "id": "ui-building",
+      "title": "UI界面建设",
+      "category": "UI设计",
+      "image": "img/app.jpg",
+      "description": "设计并开发了现代化的UI界面，注重用户体验和视觉美感。",
+      "tags": ["Figma", "Photoshop"],
+      "video": "video/ui.mp4",
+      "file": "builds/ui.exe"
+    },
+    {
+      "id": "chat-room",
+      "title": "聊天室开发",
+      "category": "应用开发",
+      "image": "img/dashboard.jpg",
+      "description": "开发了实时聊天室应用，支持多人在线聊天和消息推送功能。",
+      "tags": ["实时通信", "消息推送"],
+      "video": "video/chat.mp4",
+      "file": "builds/chat.exe"
+    },
+    {
+      "id": "fps-game",
+      "title": "FPS游戏开发",
+      "category": "游戏开发",
+      "image": "img/ecommerce.jpg",
+      "description": "开发了第一人称射击游戏，包含流畅的游戏机制和精美的游戏画面。",
+      "tags": ["Unity", "C#", "FPS"],
+      "video": "video/fps.mp4",
+      "file": "builds/fps.exe"
+    },
+    {
+      "id": "survival-game",
+      "title": "生存类游戏开发",
+      "category": "游戏开发",
+      "image": "img/design.jpg",
+      "description": "开发了生存类游戏，玩家需要在恶劣环境中收集资源并生存下去。",
+      "tags": ["Unity", "C#", "生存玩法"],
+      "video": "video/survival.mp4",
+      "file": "builds/survival.exe"
+    },
+    {
+      "id": "arpg-game",
+      "title": "ARPG类游戏开发",
+      "category": "游戏开发",
+      "image": "img/blog.jpg",
+      "description": "开发了动作角色扮演游戏，包含丰富的技能系统和剧情内容。",
+      "tags": ["Unity", "C#", "ARPG"],
+      "video": "video/arpg.mp4",
+      "file": "builds/arpg.exe"
+    }
+  ]
+}

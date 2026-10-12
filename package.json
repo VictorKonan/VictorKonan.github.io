@@ -1,0 +1,20 @@
+{
+  "name": "zcn-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "张春楠的个人作品集站点（Vue 3 + Vite，支持 GitHub Pages 部署）",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.3.5"
+  }
+}
